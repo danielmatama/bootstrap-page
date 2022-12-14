@@ -1,0 +1,47 @@
+.navbar {
+  padding-top: 20px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 20px;
+
+
+}
+
+.card {
+  margin-left: 10px;
+  border: 1px solid blue;
+}
+
+.top {
+  height: 285px;
+}
+
+.works-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  font-family: sans-serif;
+  color: blue;
+}
+
+.intro {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.about-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 650px;
+  align-items: center;
+}
