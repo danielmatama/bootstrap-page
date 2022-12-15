@@ -1,0 +1,70 @@
+.navbar {
+  padding-top: 20px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.card {
+  margin-left: 10px;
+  border: 1px solid blue;
+}
+
+.top {
+  height: 285px;
+}
+
+.works-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  font-family: sans-serif;
+  color: blue;
+}
+
+.about-me {
+  margin-top: 5px;
+  padding-top: 100px;
+  padding-bottom: 30px;
+  background-color: blue;
+}
+
+.intro {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+.about-text {
+  color: white;
+  width: 650px;
+  align-items: center;
+  margin-left: 280px;
+}
+
+.socials {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style: none;
+}
+
+.fb {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.btn-2 {
+  margin-left: 510px;
+}
